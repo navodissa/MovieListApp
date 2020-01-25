@@ -6,6 +6,7 @@ import android.util.Patterns;
 import androidx.databinding.BaseObservable;
 import androidx.databinding.Bindable;
 import androidx.databinding.library.baseAdapters.BR;
+import com.example.movielistapp.views.MainActivity;
 
 
 import com.example.movielistapp.model.User;
