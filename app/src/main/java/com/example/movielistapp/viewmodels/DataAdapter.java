@@ -45,8 +45,8 @@ public class DataAdapter extends RecyclerView.Adapter<DataAdapter.DataViewHolder
 
         public DataViewHolder(View view) {
             super(view);
-            title = (TextView) view.findViewById(R.id.title);
-            director = (TextView) view.findViewById(R.id.director);
+/*            title = (TextView) view.findViewById(R.id.title);
+            director = (TextView) view.findViewById(R.id.director);*/
         }
     }
 }
